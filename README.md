@@ -1,3 +1,3 @@
-# Skill Mark
+# skilluna
 
 スキルシート管理サービス
